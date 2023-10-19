@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t3thPscoO29GD46J6+QaDLFpXX65QhpCYhnnuyuvlw7Krbl/rjSyGZlx2I1E0jHyJhXF71EguVnF4NRz5Z++7w==",
+  "dgSpecHash": "zzVR5heOFGIHUZOZcatSd96e7no+luPCndrIOWO4NLlgKOJVvCr8UsEclVb7La7EEaAe/Mplm1khYFyHNlswyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\federico.delcampo\\source\\repos\\proyecto program 6\\proyecto program 6.csproj",
+  "projectFilePath": "C:\\Users\\federico.delcampo\\OneDrive - Artware srl\\Escritorio\\proyecto program 6\\proyecto program 6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\federico.delcampo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\federico.delcampo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Progracion6_DesarrolloDeContenidos.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,6 +46,8 @@ namespace proyecto_program_6
             }
 
             app.UseHttpsRedirection();
+
+            app.UseErrorHandler();
 
             app.UseRouting();
 

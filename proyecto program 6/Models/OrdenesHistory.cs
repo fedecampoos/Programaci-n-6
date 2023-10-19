@@ -14,7 +14,7 @@ namespace proyecto_program_6.Models
         public string ACTION { get; set; }
         public string SYMBOL { get; set; }
         public int QUANTITY { get; set; }
-        public decimal PRICE { get; set; }
+        public double PRICE { get; set; }
 
       
     }

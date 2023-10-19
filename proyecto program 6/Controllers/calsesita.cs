@@ -15,6 +15,7 @@ namespace proyecto_program_6.Controllers
     [ApiController]
     public class calsesita : ControllerBase
     {
+        string connectionString = "Data Source=NB-CONSUL-117;Initial Catalog=Clase3;Integrated Security=True";
         // GET: api/<calsesita>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -31,8 +32,10 @@ namespace proyecto_program_6.Controllers
 
         // POST api/<calsesita>
         [HttpPost]
-        public void Post([FromBody] string value)
+        [Route("crearordenes")]
+        public string crearordenes(OrdenesHistory orden)
         {
+            return "";
         }
 
         // PUT api/<calsesita>/5
